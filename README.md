@@ -100,24 +100,22 @@ While vehicles generate extensive data through sensors and onboard diagnostics, 
 
 ## Usage
 
-1. **Upload Data**: Add vehicle sensory data or upload vehicle manuals in PDF format.
-2. **Train Models**: Use the training module to train predictive models with historical data.
-3. **Analyze Metrics**: View maintenance predictions, CO2 emission forecasts, and driver scores.
-4. **Chatbot Assistance**: Query the chatbot for quick answers from the vehicle manual.
-
+1."Prepare Data": Add vehicle data or upload vehicle manuals.
+2."Train Models": Use Jupyter notebooks in the notebooks/ directory.
+3."Run the Application": Access the frontend dashboard to interact with the system.
+4."Query the Chatbot": Ask maintenance-related questions via the chatbot.
 ---
 
 ## Project Structure
 
 ```
 Vehichle-predective-maintenance/
-├── app.py               # Main backend application
-├── data/                # Data for training and testing
-├── models/              # Pretrained and saved machine learning models
-├── templates/           # Frontend HTML templates
-├── static/              # Static files (CSS, JS, images)
-├── utils/               # Helper scripts
-└── requirements.txt     # Dependencies
+├── datasets/            # Sample datasets
+├── flask/               # Backend (Flask) API and logic
+├── models/              # Pre-trained models for predictions
+├── notebooks/           # Jupyter notebooks for training and experiments
+├── react/               # Frontend code (React.js)
+├── README.md            # Project documentation
 ```
 
 ---
