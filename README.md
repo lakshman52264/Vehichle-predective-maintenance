@@ -18,8 +18,6 @@ A data-driven and AI-powered project that leverages advanced machine learning an
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
