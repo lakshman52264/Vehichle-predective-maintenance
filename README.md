@@ -100,10 +100,10 @@ While vehicles generate extensive data through sensors and onboard diagnostics, 
 
 ## Usage
 
-1."Prepare Data": Add vehicle data or upload vehicle manuals.
-2."Train Models": Use Jupyter notebooks in the notebooks/ directory.
-3."Run the Application": Access the frontend dashboard to interact with the system.
-4."Query the Chatbot": Ask maintenance-related questions via the chatbot.
+1.**Prepare Data**: Add vehicle data or upload vehicle manuals.
+2.**Train Models**: Use Jupyter notebooks in the notebooks/ directory.
+3.**Run the Application**: Access the frontend dashboard to interact with the system.
+4.**Query the Chatbot**: Ask maintenance-related questions via the chatbot.
 ---
 
 ## Project Structure
