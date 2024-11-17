@@ -70,9 +70,9 @@ While vehicles generate extensive data through sensors and onboard diagnostics, 
 - **Backend**: Python, Flask
 - **Frontend**: React.js, HTML, CSS, JavaScript
 - **Machine Learning**: Scikit-learn, SHAP, XGBoost, Random Forest, Linear Regression
-- **Data Management**: Firebase, Pandas
+- **Data Manupulation**: Firebase, Pandas
 - **AI Integration**: OpenAI, LangChain
-- **Database**: FAISS-based text retrieval
+- **Database**: Firebase
 
 ---
 
