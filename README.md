@@ -126,16 +126,6 @@ Contributions are welcome! Feel free to fork the repository, create a feature br
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For queries or feedback, please contact:
-- **GitHub**: [Lakshman52264](https://github.com/lakshman52264)
 
 --- 
 
